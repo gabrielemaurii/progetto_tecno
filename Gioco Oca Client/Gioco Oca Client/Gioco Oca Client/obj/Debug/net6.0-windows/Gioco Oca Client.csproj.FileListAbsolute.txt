@@ -1,0 +1,24 @@
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\bin\Debug\net6.0-windows\Gioco Oca Client.exe
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\bin\Debug\net6.0-windows\Gioco Oca Client.deps.json
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\bin\Debug\net6.0-windows\Gioco Oca Client.runtimeconfig.json
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\bin\Debug\net6.0-windows\Gioco Oca Client.dll
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\bin\Debug\net6.0-windows\ref\Gioco Oca Client.dll
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\bin\Debug\net6.0-windows\Gioco Oca Client.pdb
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.csproj.AssemblyReference.cache
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\App.g.cs
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client_MarkupCompile.cache
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client_MarkupCompile.lref
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\MainWindow.baml
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.g.resources
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.AssemblyInfoInputs.cache
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.AssemblyInfo.cs
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.csproj.CoreCompileInputs.cache
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.dll
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\ref\Gioco Oca Client.dll
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.pdb
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Gioco Oca Client.genruntimeconfig.cache
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Pagina 1.g.cs
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\Pagina 1.baml
+F:\PROGRAMMI\Gioco Oca Client\Gioco Oca Client\obj\Debug\net6.0-windows\PlayerGam.g.cs
